@@ -1,3 +1,5 @@
+<center>
+<h1 style="display: block;">Unsupervised Video Denoising</h1>
 CVMIA 2023 <br>
 <table style="border: none; display: initial;">
 <tr style="border: none;">
@@ -17,3 +19,4 @@ CVMIA 2023 <br>
 <td style="border: none;"><sup>2</sup>MUSC</td>
 </tr>
 </table>
+</center>
