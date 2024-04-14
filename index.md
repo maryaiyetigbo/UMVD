@@ -32,9 +32,9 @@ In this paper, we introduce a novel unsupervised network to denoise microscopy v
 
 
 ## Architecture
-![sbd](./figures/pipeline_fig.png) 
+<img src="./assets/pipeline_fig.png" width="1000"/>
 
-Our method consists of two main components: a feature generator ($\mathcal{G}_\phi$) and a Denoiser ($\mathcal{D}_\theta$). Distinct from conventional unsupervised methods, which directly use adjacent frames to interpolate the missing central frame or utilizing neighboring pixels for central pixel estimation as seen in UDVD \cite{udvd} and RDRF\cite{wang2023recurrent}, our technique employs a temporal filter on the feature maps produced by a sequence of CNN layers ($\mathcal{G}_\phi$) prior to processing by the Denoiser ($\mathcal{D}_\theta$). 
+Our method consists of two main components: a feature generator $\mathcal{G}_\phi$ and a Denoiser $\mathcal{D}_\theta$. Distinct from conventional unsupervised methods, which directly use adjacent frames to interpolate the missing central frame or utilizing neighboring pixels for central pixel estimation as seen in UDVD \cite{udvd} and RDRF\cite{wang2023recurrent}, our technique employs a temporal filter on the feature maps produced by a sequence of CNN layers $\mathcal{G}_\phi$ prior to processing by the Denoiser $\mathcal{D}_\theta$. 
 Our overall pipeline is illustrated in Fig.~\ref{fig:pipeline}. The major contributions of our work include:
 
 Our DeepTemporal Interpolation Pipeline. The feature generator $\mathbf{F}_{\phi}$ extracts distinctive features using three depthwise convolutional layers, and a temporal filter enhances denoising accuracy by adjusting feature map weights based on spatial-temporal proximity to the central frame, overcoming challenges in handling high frame rate videos and slow-moving objects
