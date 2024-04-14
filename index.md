@@ -44,7 +44,7 @@ Two Photon Calcium Imaging | Fluorescence Microscopy
 :-------------------------:|:-------------------------:
 <img src="./assets/standard.gif" width="400"/> | <img src="./assets/GOWT1.gif" width="400"/>
 
- Bobblehead           |  Runner
+ Two Photon Calcium Imaging           |  Fluorescence Microscopy
 :-------------------------:|:-------------------------:
 ![](./assets/standard.gif)  |  ![](./assets/GOWT1.gif)
 
@@ -54,8 +54,8 @@ Two Photon Calcium Imaging | Fluorescence Microscopy
   <th align="center"> Electron Microscopy </th>
  </tr>
  <tr>
-  <td align="center"> <img src="./figures/standard.gif" width="500"/> </td>
-  <td align="center"> <img src="./figures/GOWT1.gif" width="500"/> </td>
+  <td align="center"> <img src="./assets/standard.gif" width="500"/> </td>
+  <td align="center"> <img src="./assets/GOWT1.gif" width="500"/> </td>
  </tr>
 </table>
 
