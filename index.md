@@ -21,6 +21,6 @@ CVMIA 2023 <br>
 </table>
 
 <br>
- <img src="./assets/highActivity.gif" width="500"/>
+ <img src="./assets/highActivity.gif" width="1000"/>
 
 </center>
