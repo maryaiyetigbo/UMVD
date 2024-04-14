@@ -42,7 +42,22 @@ Our method enhances video denoising by integrating two main components: a featur
 ## Results
 Two Photon Calcium Imaging | Fluorescence Microscopy
 :-------------------------:|:-------------------------:
-<img src="./assets/standard.gif" width="500"/> | <img src="./assets/GOWT1.gif" width="500"/>
+<img src="./assets/standard.gif" width="400"/> | <img src="./assets/GOWT1.gif" width="400"/>
+
+ Bobblehead           |  Runner
+:-------------------------:|:-------------------------:
+![](./assets/standard.gif)  |  ![](./assets/GOWT1.gif)
+
+
+<table>
+ <tr>
+  <th align="center"> Electron Microscopy </th>
+ </tr>
+ <tr>
+  <td align="center"> <img src="./figures/standard.gif" width="500"/> </td>
+  <td align="center"> <img src="./figures/GOWT1.gif" width="500"/> </td>
+ </tr>
+</table>
 
 ## One Photon Calcium Imaging
  <img src="./assets/musc.gif" width="1000"/>
