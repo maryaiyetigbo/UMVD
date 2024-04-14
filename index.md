@@ -48,6 +48,8 @@ Our method enhances video denoising by integrating two main components: a featur
 :-------------------------:|:-------------------------:
 ![](./assets/standard.gif)  |  ![](./assets/GOWT1.gif) -->
 
+## One Photon Calcium Imaging
+ <img src="./assets/musc.gif" width="1000"/>
 
 <table>
  <tr>
@@ -60,17 +62,16 @@ Our method enhances video denoising by integrating two main components: a featur
  </tr>
 </table>
 
-## One Photon Calcium Imaging
- <img src="./assets/musc.gif" width="1000"/>
+
 
 
 ### Results on Natural Videos
 <table style="border: none;">
- <tr style="border: none;"><th align="left"> Bobblehead </th></tr>
- <tr style="border: none;"><td align="left"> <img src="./assets/YTHFR_Gaussian50_bobblehead.gif" width="1000"/> </td></tr>
- <tr style="border: none;"><th align="left"> Runner </th></tr>
- <tr style="border: none;"><td align="left"> <img src="./assets/YTHFR_Gaussian50_1Runner.gif" width="1000"/> </td></tr>
-</table style="border: none;">
+ <tr style="border: none;"><th align="left" style="border: none;"> Bobblehead </th></tr>
+ <tr style="border: none;"><td align="left" style="border: none;"> <img src="./assets/YTHFR_Gaussian50_bobblehead.gif" width="1000"/> </td></tr>
+ <tr style="border: none;"><th align="left" style="border: none;"> Runner </th></tr>
+ <tr style="border: none;"><td align="left" style="border: none;"> <img src="./assets/YTHFR_Gaussian50_1Runner.gif" width="1000"/> </td></tr>
+</table>
 
 
 
