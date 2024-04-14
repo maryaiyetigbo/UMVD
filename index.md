@@ -1,7 +1,7 @@
----
+<!-- ---
 title: "Unsupervised Microscopy Video Denoising"
 ---
-
+ -->
 <center>
 <h1 style="display: block;">Unsupervised Microscopy Video Denoising</h1>
 <table style="border: none; display: initial;">
