@@ -4,7 +4,7 @@ CVMIA 2023 <br>
 <table style="border: none; display: initial;">
 <tr style="border: none;">
 <td style="border: none;"><a href="https://maryaiyetigbo.github.io/">Mary Damilola Aiyetigbo</a><sup>1</sup></td>
-<td style="border: none;"><a href="maiyeti@clemson.edu">Alexander Korte</a><sup>1</sup></td>
+<td style="border: none;"><a href="korte@clemson.edu">Alexander Korte</a><sup>1</sup></td>
 <td style="border: none;"><a href="ema8@clemson.edu">Ethan Anderson</a><sup>1</sup></td>
 <td style="border: none;"><a href="chalhoub@musc.edu">Reda Chalhoub</a><sup>2</sup></td>
 <td style="border: none;"><a href="kalivasp@musc.edu">CPeter Kalivas</a><sup>2</sup></td>
@@ -19,4 +19,8 @@ CVMIA 2023 <br>
 <td style="border: none;"><sup>2</sup>MUSC</td>
 </tr>
 </table>
+
+<br>
+ <img src="./assets/highActivity.gif" width="500"/>
+
 </center>
