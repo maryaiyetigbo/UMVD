@@ -51,7 +51,8 @@ Two Photon Calcium Imaging | Fluorescence Microscopy
 
 <table>
  <tr>
-  <th align="center"> Electron Microscopy </th>
+  <th align="center"> Two Photon Calcium Imaging </th>
+  <th align="center"> Fluorescence Microscopy </th>
  </tr>
  <tr>
   <td align="center"> <img src="./assets/standard.gif" width="500"/> </td>
