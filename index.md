@@ -65,22 +65,18 @@ Our method enhances video denoising by integrating two main components: a featur
 
 
 ### Results on Natural Videos
-<table>
- <tr>
-  <th align="center"> Bobblehead </th>
-  <td align="center"> <img src="./assets/YTHFR_Gaussian50_bobblehead.gif" width="1000"/> </td>
- </tr>
- <tr>
-  <th align="center"> Runner </th>
-  <td align="center"> <img src="./assets/YTHFR_Gaussian50_1Runner.gif" width="1000"/> </td>
- </tr>
-</table>
+<table style="border: none;">
+ <tr style="border: none;"><th align="left"> Bobblehead </th></tr>
+ <tr style="border: none;"><td align="left"> <img src="./assets/YTHFR_Gaussian50_bobblehead.gif" width="1000"/> </td></tr>
+ <tr style="border: none;"><th align="left"> Runner </th></tr>
+ <tr style="border: none;"><td align="left"> <img src="./assets/YTHFR_Gaussian50_1Runner.gif" width="1000"/> </td></tr>
+</table style="border: none;">
 
 
 
- Bobblehead           |  Runner
+ <!-- Bobblehead           |  Runner
 :-------------------------:|:-------------------------:
-![](./assets/YTHFR_Gaussian50_bobblehead.gif)  |  ![](./assets/YTHFR_Gaussian50_1Runner.gif)
+![](./assets/YTHFR_Gaussian50_bobblehead.gif)  |  ![](./assets/YTHFR_Gaussian50_1Runner.gif) -->
 
 ![result](./assets/results.png)
 
