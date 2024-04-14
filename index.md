@@ -3,7 +3,7 @@ title: "Unsupervised Microscopy Video Denoising"
 ---
  -->
 <center>
-<h1 style="display: block;">Unsupervised Microscopy Video Denoising</h1>
+<!-- <h1 style="display: block;">Unsupervised Microscopy Video Denoising</h1> -->
 <table style="border: none; display: initial;">
 <tr style="border: none;">
 <td style="border: none;"><a href="https://maryaiyetigbo.github.io/">Mary Damilola Aiyetigbo</a><sup>1</sup></td>
