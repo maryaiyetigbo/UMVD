@@ -98,7 +98,7 @@ Our method enhances video denoising by integrating two main components: a featur
 :-------------------------:|:-------------------------:
 ![](./assets/YTHFR_Gaussian50_bobblehead.gif)  |  ![](./assets/YTHFR_Gaussian50_1Runner.gif) -->
 
-###
+
 ![result](./assets/results.png)
 
 **Performance in Denoising Synthetic Noise.** This table presents a comparison of average PSNR/SSIM values of denoised performance on LIVE-YT-HFR datasets on different noise types and intensities. Our method demonstrates superior performance in most cases and remains highly competitive with the supervised methods.
