@@ -23,6 +23,27 @@ title: "Unsupervised Microscopy Video Denoising"
 </tr>
 </table>
 
+<br>
+
+<table style="border: none; display: initial;">
+<tr style="border: none;">
+<td style="border: none;">
+<a href="https://www.arxiv.org/abs/2404.12163" style="color: #ffffff">
+<div class="link_button">
+<i class="bi bi-file-earmark-richtext"></i> Paper
+</div>
+</a>
+</td>
+<td style="border: none; display: initial;">
+<a href="https://github.com/maryaiyetigbo/UMVD" style="color: #ffffff">
+<div class="link_button">
+<i class="bi bi-github"></i> Code
+</div>
+</a>
+</td>
+</tr>
+</table>
+
 </center>
 
 
