@@ -16,12 +16,13 @@ title: "Unsupervised Microscopy Video Denoising"
 </tr>
 </table>
 <br>
-<table style="border: none; display: initial;">
-<tr style="border: none;">
-<td style="border: none;"><sup>1</sup>Clemson University</td>
-<td style="border: none;"><sup>2</sup>MUSC</td>
-</tr>
-</table>
+ 
+<!-- <table style="border: none; display: initial;"> -->
+<!-- <tr style="border: none;"> -->
+<!-- <td style="border: none;"><sup>1</sup>Clemson University</td> -->
+<!-- <td style="border: none;"><sup>2</sup>MUSC</td> -->
+<!-- </tr> -->
+<!-- </table> -->
 
 <br>
 
@@ -89,14 +90,14 @@ Our method enhances video denoising by integrating two main components: a featur
 ## Results on Natural Videos
 <table style="border: none;">
  <tr style="border: none;"><th align="left" style="border: none;"> Bobblehead </th></tr>
- <tr style="border: none;"><td align="left" style="border: none;"> <img src="./assets/YTHFR_Gaussian50_bobblehead.gif" width="1000"/> </td></tr>
+ <tr style="border: none;"><td align="left" style="border: none;"> <img src="./assets/YTHFR_Gaussian50_bobblehead.gif" width="500"/> </td></tr>
  <tr style="border: none;"><th align="left" style="border: none;"> Runner </th></tr>
- <tr style="border: none;"><td align="left" style="border: none;"> <img src="./assets/YTHFR_Gaussian50_1Runner.gif" width="1000"/> </td></tr>
+ <tr style="border: none;"><td align="left" style="border: none;"> <img src="./assets/YTHFR_Gaussian50_1Runner.gif" width="500"/> </td></tr>
 </table>
 
- <!-- Bobblehead           |  Runner
-:-------------------------:|:-------------------------:
-![](./assets/YTHFR_Gaussian50_bobblehead.gif)  |  ![](./assets/YTHFR_Gaussian50_1Runner.gif) -->
+ <!-- Bobblehead           |  Runner -->
+<!-- :-------------------------:|:-------------------------: -->
+<!-- ![](./assets/YTHFR_Gaussian50_bobblehead.gif)  |  ![](./assets/YTHFR_Gaussian50_1Runner.gif) -->
 
 
 ![result](./assets/results.png)
