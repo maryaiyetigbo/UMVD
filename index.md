@@ -35,18 +35,18 @@ title: "Unsupervised Microscopy Video Denoising"
 </table> 
 
 
-
+<!--background-color: #262626; border-radius: 20px; padding: 8px 15px 5px 15px;-->
 <br>
 <table style="border: none; display: initial;">
 <tr style="border: none;">
-<td style="border: none; background-color: #262626; border-radius: 20px; padding: 8px 15px 5px 15px;">
+<td style="border: none;">
 <a href="https://www.arxiv.org/abs/2404.12163" style="color: #ffffff">
 <div class="link_button">
 <i class="bi bi-file-earmark-richtext"></i> Paper
 </div>
 </a>
 </td>
-<td style="border: none; background-color: #000000">
+<td style="border: none;">
 <a href="https://github.com/maryaiyetigbo/UMVD" style="color: #ffffff">
 <div class="link_button">
 <i class="bi bi-github"></i> Code
