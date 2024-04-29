@@ -34,7 +34,7 @@
 </table> 
 
 
-<!--background-color: #262626; border-radius: 20px; padding: 8px 15px 5px 15px;-->
+<!--background-color: #262626; border-radius: 20px; padding: 8px 15px 8px 15px;-->
 <br>
 <table style="border: none; display: initial;">
 <tr style="border: none;">
