@@ -9,6 +9,7 @@ title: "Unsupervised Microscopy Video Denoising"
   padding: 8px 15px 5px 15px;
 }
 </style>
+
 # Unsupervised Microscopy Video Denoising
 
 <center>
