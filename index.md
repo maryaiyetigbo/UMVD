@@ -1,6 +1,4 @@
----
-title: "Unsupervised Microscopy Video Denoising"
----
+
 <style>
  .link_button {
   border-radius: 20px;
