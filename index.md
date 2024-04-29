@@ -31,7 +31,7 @@ title: "Unsupervised Microscopy Video Denoising"
 <table style="border: none; display: initial;">
 <tr style="border: none;">
 <td style="border: none;"><sup>1</sup>Clemson University</td>
-<td style="border: none;"><sup>2</sup>MUSC</td>
+<td style="border: none;"><sup>2</sup>The Medical University of South Carolina</td>
 </tr>
 </table> 
 
