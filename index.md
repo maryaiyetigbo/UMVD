@@ -2,6 +2,8 @@
 title: "Unsupervised Microscopy Video Denoising"
 ---
 
+# Unsupervised Microscopy Video Denoising
+
 <center>
 <!-- <h1 style="display: block;">Unsupervised Microscopy Video Denoising</h1> -->
 <table style="border: none; display: initial;">
@@ -17,16 +19,16 @@ title: "Unsupervised Microscopy Video Denoising"
 </table>
 <br>
  
-<!-- 
+
 <table style="border: none; display: initial;">
 <tr style="border: none;">
 <td style="border: none;"><sup>1</sup>Clemson University</td>
 <td style="border: none;"><sup>2</sup>MUSC</td>
 </tr>
 </table> 
--->
 
-<!-- 
+
+
 <br>
 <table style="border: none; display: initial;">
 <tr style="border: none;">
@@ -46,7 +48,7 @@ title: "Unsupervised Microscopy Video Denoising"
 </td>
 </tr>
 </table>
--->
+
 </center>
 
 
