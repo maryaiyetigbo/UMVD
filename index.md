@@ -32,15 +32,15 @@ title: "Unsupervised Microscopy Video Denoising"
 <br>
 <table style="border: none; display: initial;">
 <tr style="border: none;">
-<td style="border: none;">
-<a href="https://www.arxiv.org/abs/2404.12163" style="color: #0000ff">
+<td style="border: none; background-color: #000000">
+<a href="https://www.arxiv.org/abs/2404.12163" style="color: #ffffff">
 <div class="link_button">
 <i class="bi bi-file-earmark-richtext"></i> Paper
 </div>
 </a>
 </td>
-<td style="border: none; display: initial;">
-<a href="https://github.com/maryaiyetigbo/UMVD" style="color: #0000ff">
+<td style="border: none; display: initial; background-color: #000000">
+<a href="https://github.com/maryaiyetigbo/UMVD" style="color: #ffffff">
 <div class="link_button">
 <i class="bi bi-github"></i> Code
 </div>
