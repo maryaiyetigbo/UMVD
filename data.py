@@ -31,11 +31,10 @@ torch.cuda.manual_seed_all(seed_val)
 
 
 class BatchedSingleVideo(torch.utils.data.Dataset):
-    def __init__(self, data_path, clean_path, noise_path, dataset="LiveHDR", video="1Runner", patch_size=None, stride=64, n_frames=5, heldout=False):
+    def __init__(self, data_path, clean_path, noise_path, patch_size=None, stride=64, n_frames=5, heldout=False):
         super().__init__()
         self.data_path = data_path
         self.noise_path = noise_path
-        self.dataset = dataset
         self.size = patch_size
         self.stride = stride
         self.n_frames = n_frames
@@ -145,7 +144,7 @@ class BatchedSingleVideo(torch.utils.data.Dataset):
     
     
 class Naomi_data(torch.utils.data.Dataset):
-    def __init__(self, clean_path, noise_path, patch_size=None, stride=64, n_frames=5, length=500):
+    def __init__(self, clean_path, noise_path, patch_size=None, stride=64, n_frames=5):
         super().__init__()
         # self.data_path = data_path
         self.size = patch_size
@@ -157,8 +156,8 @@ class Naomi_data(torch.utils.data.Dataset):
         self.n_frames = n_frames
 
         # self.files = sorted(glob.glob(os.path.join(data_path, "*.png")))
-        self.files = tiff.imread(clean_path)[:length]
-        self.noisy_files = tiff.imread(noise_path)[:length]
+        self.files = tiff.imread(clean_path)
+        self.noisy_files = tiff.imread(noise_path)
         
 #         self.files = self.files.astype(np.float32)
 #         self.files = self.files - self.files.mean()

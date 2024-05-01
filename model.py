@@ -121,14 +121,14 @@ class DEC_Conv(nn.Module):
 
     
 class Denoiser(nn.Module):
-    def __init__(self, in_channels=3, n_output=3, bias=False, n_frames=7, level=1, minv=0):
+    def __init__(self, in_channels=3, n_output=3, filters=21, bias=False, n_frames=7, level=1, minv=0):
         super().__init__()
         self.in_channels = in_channels
         self.bias = bias
         self.n_f = n_frames
         self.c = in_channels
         
-        mid_channels = 21*self.c
+        mid_channels = filters*self.c
         self.convout = mid_channels
         group = in_channels
         self.conv1 = DepthwiseConv(in_channels, mid_channels, group=group, bias=bias)
