@@ -8,23 +8,11 @@ title: "Unsupervised Microscopy Video Denoising"
   color: #ffffff;
   padding: 8px 15px 5px 15px;
 }
- .table-title {
-            font-size: 2em;      /* Size of h1 */
-            font-weight: bold;   /* Bold text */
-            padding: 10px;       /* Some padding */
-            text-align: center;  /* Centering text */
-            background-color: #ffffff; /* Background color */
-        }
 </style>
 
-<!--
-<center>
- <table width="100%">
-  <tr><td colspan="3" class="table-title">Unsupervised Microscopy Video Denoising</td></tr>
- </table>
- </center> -->
 
  <h1 style="display: block; text-align: center">Unsupervised Microscopy Video Denoising</h1>
+ 
 
 <center>
 <!-- <h1 style="display: block;">Unsupervised Microscopy Video Denoising</h1> -->
