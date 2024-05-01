@@ -10,7 +10,7 @@ title: "Unsupervised Microscopy Video Denoising"
 }
 </style>
 
-# Unsupervised Microscopy Video Denoising
+<center>Unsupervised Microscopy Video Denoising</center>
 
 <center>
 <!-- <h1 style="display: block;">Unsupervised Microscopy Video Denoising</h1> -->
