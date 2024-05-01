@@ -10,8 +10,9 @@ Website: [https://maryaiyetigbo.github.io/UMVD/](https://maryaiyetigbo.github.io
 
 <div>
 <img src="https://maryaiyetigbo.github.io/UMVD/assets/standard.gif" height="100"/>
+<!--
 <img src="https://maryaiyetigbo.github.io/UMVD/assets/musc.gif" height="100"/>
-<img src="https://maryaiyetigbo.github.io/UMVD/assets/GOWT1.gif" height="100"/>
+<img src="https://maryaiyetigbo.github.io/UMVD/assets/GOWT1.gif" height="100"/> -->
 </div>
 
 ## Pipeline
