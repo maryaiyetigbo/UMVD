@@ -13,18 +13,18 @@ title: "Unsupervised Microscopy Video Denoising"
             font-weight: bold;   /* Bold text */
             padding: 10px;       /* Some padding */
             text-align: center;  /* Centering text */
-            background-color: #f3f3f3; /* Background color */
-            border-bottom: 2px solid #000; /* Add a bottom border */
+            background-color: #ffffff; /* Background color */
         }
 </style>
 
+<!--
 <center>
  <table width="100%">
-        <tr>
-            <td colspan="3" class="table-title">Unsupervised Microscopy Video Denoising</td>
-        </tr>
+  <tr><td colspan="3" class="table-title">Unsupervised Microscopy Video Denoising</td></tr>
  </table>
- </center>
+ </center> -->
+
+ <h1 style="display: block; text-align: center">Unsupervised Microscopy Video Denoising</h1>
 
 <center>
 <!-- <h1 style="display: block;">Unsupervised Microscopy Video Denoising</h1> -->
