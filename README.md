@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ## Datasets
 The following datasets were used in our paper. The download links for publicly available datasets are provided. 
 1. `Two Photon Calcium Imaging` - Calcium imaging generated using Neural Anatomy and Optical Microscopy (NAOMi) simulation code. [https://bitbucket.org/adamshch/naomi_sim/src/master/](https://bitbucket.org/adamshch/naomi_sim/src/master/)
-2. `MUSC` - One photon calcium imaging recordings were collected locally at the Medical University of South Carolina in freely behaving transgenic mice (Drd1-Cre and Drd2-Cre).
+2. `One photon Calcium Imaging` - Recordings were collected locally at the Medical University of South Carolina in freely behaving transgenic mice (Drd1-Cre and Drd2-Cre).
 3. `Microscopy` - Fluorescence Microscopy dataset. [http://celltrackingchallenge.net/2d-datasets/](http://celltrackingchallenge.net/2d-datasets/)
 4. `LIVE-YT-HFR` - The dataset used to train the color natural video data. [https://live.ece.utexas.edu/research/LIVE_YT_HFR/LIVE_YT_HFR/index.html](https://live.ece.utexas.edu/research/LIVE_YT_HFR/LIVE_YT_HFR/index.html)
 
@@ -44,6 +44,12 @@ python train.py \
         --out-channels 1
         --lr 1e-3
         --num-epochs 25
+```
+
+## Creating Noisy Natural Video
+To create the noisy sequence of the color video fro different noise types and intensities.
+```shell
+python create_noisy_dataset.py
 ```
 
 ## Citation
