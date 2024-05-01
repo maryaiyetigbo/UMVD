@@ -9,9 +9,9 @@ Paper: [arXiv:2404.12163](https://www.arxiv.org/abs/2404.12163)
 Website: [https://maryaiyetigbo.github.io/UMVD/](https://maryaiyetigbo.github.io/UMVD/)
 
 <div>
-<img src="https://maryaiyetigbo.github.io/UMVD/assets/standard.gif" height="250"/>
-<img src="https://maryaiyetigbo.github.io/UMVD/assets/musc.gif" height="250"/>
-<img src="https://maryaiyetigbo.github.io/UMVD/assets/GOWT1.gif" height="250"/>
+<img src="https://maryaiyetigbo.github.io/UMVD/assets/standard.gif" height="150"/>
+<img src="https://maryaiyetigbo.github.io/UMVD/assets/musc.gif" height="150"/>
+<img src="https://maryaiyetigbo.github.io/UMVD/assets/GOWT1.gif" height="150"/>
 </div>
 
 ## Pipeline
